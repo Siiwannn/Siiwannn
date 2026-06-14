@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rijwan%20Maulana&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CyberSeurity%20Entusiath%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Vibe%20Coding&descAlignY=60&descSize=18&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rijwan%20Maulana&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Enthusiast%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Vibe%20Coding&descAlignY=60&descSize=18&descColor=a78bfa" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&width=700&lines=Offensive+Security+%7C+Web+Exploitation;Bug+Bounty+Hunter+%7CPentester;Information+Systems+%40+UNPAM;Building+Secure%2C+Scalable+Software)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&multiline=false&width=700&lines=Offensive+Security+%7C+Web+Exploitation;Bug+Bounty+Hunter+%7C+Pentester;Information+Systems+%40+UNPAM;Still+Learning%2C+Always+Curious)](https://git.io/typing-svg)
 
 
 ![University](https://img.shields.io/badge/Universitas%20Pamulang-Information%20Systems%20S1-7C3AED?style=for-the-badge&logo=academia&logoColor=white)
@@ -25,25 +25,15 @@
 
 <div align="center">
 
-## ◈ About Me
+
+## ◈ 🙋About Me
 
 </div>
 
-```yaml
-profile:
-  name: "Rijwan Maulana (Iwan)"
-  role: "Security Engineer & Full Stack Developer"
-  focus: "Offensive Security · Web Exploitation · Bug Bounty"
-  mindset: "Hacker-first. Build secure. Ship fast."
-```
+Hi, I'm **Rijwan Maulana**! 👋
+I wanted to be a programmer, turns out I'm more of a vibe coder and CyberSecurity Enthusiast. I'm an Information Systems student who's genuinely passionate about Red Teaming and penetration testing — not there yet, but that's exactly where I'm heading. Currently learning web security and bug bounty hunting one step at a time.
 
-I am an Information Systems student and working professional building deep expertise at the intersection of **offensive security** and **full-stack software engineering**. My technical work spans web vulnerability research, automated reconnaissance tooling, and production-grade application development — with a deliberate focus on understanding systems deeply enough to break and rebuild them.
-
-My bug bounty practice on **YesWeHack** focuses on real-world targets including GoFood/GoTo Financial and Mokapos, where I research OTP endpoint abuse, JWT manipulation, GraphQL parameter tampering, access control flaws, and business logic errors. I approach each target with an adversarial engineering mindset: enumerate the attack surface, map trust boundaries, and identify where assumptions break down.
-
-On the engineering side, I build full-stack web applications using modern JavaScript frameworks, design systems from scratch, and write security automation tooling in Python. I am equally comfortable in a terminal hunting CVEs and in a code editor architecting a production deployment.
-
-**Open To:** Bug Bounty Collaboration · Security Research · Junior Security Engineer Roles · Freelance Web Development · Open Source Contribution
+**Open To:** Bug Bounty Collaboration · Security Research · Junior Pentester Roles · Freelance Web Development · Open Source Contribution
 
 ---
 
@@ -139,7 +129,7 @@ This project emerged from a scholarship application requirement and became a ref
 </div>
 
 **Independent Bug Bounty Researcher**
-`YesWeHack Platform` · `2024 – Present`
+`YesWeHack Platform` · `2026 – Present`
 
 Conducting independent vulnerability research against private and public bug bounty programs with a focus on web application security. Primary targets include fintech and super-app infrastructure in the Indonesian market.
 
@@ -158,13 +148,22 @@ Conducting independent vulnerability research against private and public bug bou
 
 ---
 
+**CTF Competitor**
+`Gemastik 2025` · `2025`
 
+Participated in Gemastik 2025 CTF — a national-level university technology competition. First CTF experience, still learning the ropes across web, crypto, and forensics categories.
+
+![CTF](https://img.shields.io/badge/Gemastik-2025-7C3AED?style=flat-square&logo=hackthebox&logoColor=white)
+
+---
 
 ## ◈ Achievements
 
 | Recognition | Details |
 |:---:|:---:|
-| 🏴 Valid Bug Disclosure | Vulnerability recognized by Universitas Pamulang IT Bureau ||
+| 🏴 Valid Bug Disclosure | Vulnerability recognized by Universitas Pamulang IT Bureau |
+| 🎄 TryHackMe AoC 2025 | Completed all 24 Advent of Cyber 2025 challenges |
+| 🏆 Gemastik 2025 CTF | National university CTF competition participant |
 | 🧪 PortSwigger Labs | Web Security Academy — active lab practitioner |
 | 🐍 Published OSS Tooling | XSS-Scanner-DualMode on GitHub |
 
@@ -176,14 +175,14 @@ Conducting independent vulnerability research against private and public bug bou
 
 ## ◈ Certifications
 
+**Universitas Pamulang — IT Bureau**
 
-**TryHackme**
+[![UNPAM](https://img.shields.io/badge/UNPAM-Bug%20Disclosure%20Recognition%20%7C%20Jan%202026-7C3AED?style=for-the-badge&logo=academia&logoColor=white)](https://unpam.ac.id)
 
-[![OWASP](https://img.shields.io/badge/OWASP-Top%2010%20Practitioner-6D28D9?style=for-the-badge&logo=owasp&logoColor=white)](https://owasp.org)
+**TryHackMe**
 
-**Academic**
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Advent%20of%20Cyber%202025%20%7C%2024%20Challenges-8B5CF6?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/Siiwannn)
 
-[![UNPAM](https://img.shields.io/badge/UNPAM-Information%20Systems-4C1D95?style=for-the-badge&logo=academia&logoColor=white)](https://unpam.ac.id)
 
 </div>
 
@@ -256,7 +255,7 @@ Conducting independent vulnerability research against private and public bug bou
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-rijwan%40example.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xxrzwnm@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-xxrzwnm%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xxrzwnm@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rijwan%20Maulana-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Siiwannn-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Siiwannn)
 [![Portfolio](https://img.shields.io/badge/Portfolio-siiwannn.dev-6D28D9?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://github.com/Siiwannn)
