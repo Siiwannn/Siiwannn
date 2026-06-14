@@ -233,7 +233,7 @@ Participated in Gemastik 2025 CTF — a national-level university technology com
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Siiwannn/Siiwannn/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Siiwannn/Siiwannn/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Siiwannn/Siiwannn/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Siiwannn/Siiwannn/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
 </div>
