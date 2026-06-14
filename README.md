@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rijwan%20Maulana&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Enthusiast%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Vibe%20Coding&descAlignY=60&descSize=18&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Rijwan%20Maulana&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20Enthusiast%20%7C%20Bug%20Bounty%20Hunter%20%7C%20Vibe%20Coder&descAlignY=60&descSize=18&descColor=a78bfa" width="100%" />
 
 <br/>
 
@@ -215,15 +215,6 @@ Participated in Gemastik 2025 CTF — a national-level university technology com
 
 ---
 
-<div align="center">
-
-## ◈ GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Siiwannn&theme=darkhub&no-frame=false&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" width="100%" />
-
-</div>
-
----
 
 <div align="center">
 
